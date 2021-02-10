@@ -1,0 +1,14 @@
+{
+    "players": {
+        "user1": {
+            "all_loses": 0,
+            "all_wins": 1,
+            "games_count": 2
+        },
+        "user2": {
+            "all_loses": 1,
+            "all_wins": 0,
+            "games_count": 2
+        }
+    }
+}
